@@ -1,4 +1,4 @@
-## Hi there 👋
+Computer Science Student at RWTH Aachen University
 
 <!--
 **kille19/kille19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
